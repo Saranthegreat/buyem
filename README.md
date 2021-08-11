@@ -14,6 +14,8 @@ USER LOGIN:
 Username: saran@abc.com
 Password: 11111
 
+>> You can also create a new USER for your testing as well.
+
 DON'T FORGET TO CREATE A DATABASE NAMING "ecomm" AND IMPORT THE SQL FILE TO RUN.
 WITHOUT THE DATABASE THE PROJECT WON'T RUN.
 
